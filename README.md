@@ -4,7 +4,7 @@
 spa site with vanilla js
 
 
-```js
+```html
 ...
 
   <a href="https://github.com/" target="_blank">Url Test</a> <!-- Not Spa -->
